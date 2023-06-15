@@ -22,5 +22,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adron4444&label=Profile%20views&color=0e75b6&style=flat" alt="adron4444" /> </p>
 
-<p align="left"> <a href="https://wakatime.com/@9fe7f760-f7ae-4acf-9bf7-44634e56b55a" rel="nofollow"><img src="https://camo.githubusercontent.com/0387fbb84a236af83a11fc1a2919223dd24e440ae105da465deaec34cca5e791/68747470733a2f2f77616b6174696d652e636f6d2f62616467652f757365722f39666537663736302d663761652d346163662d396266372d3434363334653536623535612e737667" alt="wakatime" data-canonical-src="https://wakatime.com/badge/user/9fe7f760-f7ae-4acf-9bf7-44634e56b55a.svg" style="max-width: 100%;"></a></p>
-
