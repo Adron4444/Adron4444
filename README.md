@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adron</h1>
 <h3 align="center">I'm student from Kraków</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adron4444&label=Profile%20views&color=0e75b6&style=flat" alt="adron4444" /> </p>
+
 
 - 🌱 I’m currently learning **cybersecurity**
 
